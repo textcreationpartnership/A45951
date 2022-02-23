@@ -1,0 +1,157 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An intimation of the deputies of the States General, in a late discourse with Mr. Sidney, extraordinary envoy from His Majesty of Great Britain</title>
+            <author>United Provinces of the Netherlands. Staten Generaal.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45951</idno>
+            <idno type="STC">Wing I275</idno>
+            <idno type="STC">ESTC R8985</idno>
+            <idno type="EEBO-CITATION">12820194</idno>
+            <idno type="OCLC">ocm 12820194</idno>
+            <idno type="VID">94196</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45951)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94196)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 385:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An intimation of the deputies of the States General, in a late discourse with Mr. Sidney, extraordinary envoy from His Majesty of Great Britain</title>
+                  <author>United Provinces of the Netherlands. Staten Generaal.</author>
+                  <author>Romney, Henry Sidney, Earl of, 1641-1704.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Netherlands --  Foreign relations --  Great Britain.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands.</term>
+               <term>Netherlands --  History --  1648-1714.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:94196:1"/>
+            <pb n="1" facs="tcp:94196:1" rendition="simple:additions"/>
+            <head>AN INTIMATION OF THE DEPUTIES OF THE States General, In a Late Diſcourſe with Mr. <hi>SIDNEY,</hi> Ex<g ref="char:EOLhyphen"/>traordinary Envoy from His Majeſty of Great BRITAIN.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HAT the <hi>States General</hi> did hear with extream trouble, that the <hi>Affairs</hi> of His <hi>Majeſty</hi> and his <hi>Parliament,</hi> were not yet Compoſed to ſuch an UNION, as they could heartily deſire, and ſuch as the neceſſity of Chriſtendom requires,</p>
+            <p>That they neither would, nor could concern themſelves, to Judge the Occaſions of ſo <hi>great</hi> an <hi>Inconvenience,</hi> much leſs of the means that might be made uſe of, to <hi>re-establiſh</hi> an UNION ſo neceſſary, and ſo much deſired.</p>
+            <p>That they had waited (though with an <hi>extream ſorrow,</hi> yet with a reſpectful ſilence) the end it ſhould pleaſe God to put to this great unhappineſs, and that they ſhould have acquieſced in thoſe means, which His <hi>Majeſty</hi> had thought fit to uſe, (being fully perſwaded, that a <hi>King</hi> ſo <hi>great,</hi> and ſo <hi>clear ſighted,</hi> would not have taken other meaſures, than ſuch as His <hi>Majeſty</hi> had thought the moſt profitable, for the directing his Affairs; and the moſt proper for the good of his Subjects:) But the <hi>danger</hi> in which they found <hi>themſelves,</hi> obliged
+<pb n="2" facs="tcp:94196:2"/>them to ſpeak. And that they neither could nor ought to <hi>addreſs themſelves</hi> any where elſe, than to His <hi>Majeſty,</hi>
+            </p>
+            <p>That His <hi>Majeſty</hi> was the <hi>moſt</hi> and <hi>beſt informed</hi> of any, of all the <hi>ſufferings</hi> which they have been obliged to indure, ſince the <hi>Conclu<g ref="char:EOLhyphen"/>ſion</hi> of the <hi>Peace;</hi> and alſo what earneſt endeavours were uſed to in<g ref="char:EOLhyphen"/>gage them in ſuch <hi>Tyes</hi> as His <hi>Majeſty</hi> approved not of; and which he thought moſt contrary to the <hi>good</hi> of both <hi>Nations.</hi> That he would be pleaſed to <hi>remember</hi> what had been <hi>ſaid</hi> and <hi>threatned,</hi> when they thought they could not be under <hi>Obligations,</hi> ſo <hi>diſagreeable</hi> to his <hi>Majeſty,</hi> and ſo <hi>inconſistent</hi> with the <hi>publick good;</hi> and that then His <hi>Majesty</hi> aſſured them of his <hi>Protection,</hi> and that he would ven<g ref="char:EOLhyphen"/>ture <hi>All</hi> to deliver them from the <hi>Evils</hi> that <hi>threatned</hi> them.</p>
+            <p>That the STATES <hi>reſting</hi> upon this <hi>Royal Promiſe,</hi> and His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> being pleaſed for their greater ſecurity, to <hi>aſſure</hi> them he would call his <hi>Parliament,</hi> as ſoon as be thought <hi>Affairs</hi> required it: They <hi>ſubmitted</hi> themſelves to this <hi>Declaration</hi> and had waited for the <hi>Seſſion</hi> of <hi>Parliament,</hi> (though with an extream impatience,) yet with as much <hi>reſignation,</hi> as His <hi>Majeſty</hi> could expect from his own <hi>Subjects.</hi> But the <hi>miſunderſtanding</hi> which ſeems to grow more than ever, be<g ref="char:EOLhyphen"/>tween His Majeſty and his <hi>People,</hi> makes them <hi>deſpair.</hi> Eſpecially, ſince the <hi>miſunderſtanding</hi> is founded upon an <hi>Affair</hi> of ſo great <hi>Im<g ref="char:EOLhyphen"/>portance,</hi> and ſo <hi>Domeſtick,</hi> that they could not Diſcuſs ſo <hi>Nice</hi> a <hi>Point.</hi>
+            </p>
+            <p>That it was <hi>certain,</hi> and that His Majeſty might be <hi>aſſured</hi> by the Relation of <hi>Eye-witneſſes,</hi> that thoſe <hi>Foreign Powers,</hi> with whom His Majeſty had no <hi>Tye,</hi> did <hi>Arm</hi> and make extraordinary great pre<g ref="char:EOLhyphen"/>parations.</p>
+            <p>That they did with all Care, endeavour to <hi>repair</hi> the diſorders, which the late Sickneſs had occaſioned in their <hi>Armies,</hi> when they had like to have been deſtroyed about <hi>Strasburgh.</hi>
+            </p>
+            <p>That all the <hi>extraordinary Embaſſies</hi> which they have ſent to moſt of the <hi>Princes</hi> of <hi>Europe,</hi> were to no other end than to <hi>inform</hi> them, and give them <hi>aſſurance</hi> that all their <hi>proceedings</hi> had no other <hi>aim,</hi> than the <hi>publick quiet</hi> and <hi>tranquility;</hi> though after the Concluſion of the <hi>Peace,</hi> they have ſeized upon a greater number of <hi>Villages</hi> than the <hi>Agreement</hi> gave them.</p>
+            <p>That the apprehenſions they had of His Majeſty of <hi>Great Britain,</hi> have ſo far favoured theſe <hi>Countreys,</hi> as that their <hi>intentions</hi> have not yet been <hi>effected.</hi>
+            </p>
+            <p>That the diſpoſition of <hi>Affairs,</hi> which may incline His Majeſty to differ with his <hi>People,</hi> would give them full opportunity to <hi>execute</hi>
+               <pb n="3" facs="tcp:94196:2"/>their <hi>deſignes;</hi> ſince being perfectly acquainted with what they are to apprehend from His <hi>Majeſties Power ſeparate from his People;</hi> they think they may compleatly Execute their deſigns before any <hi>Forreign force</hi> can oppoſe them: And that they could not fail of their <hi>Ends,</hi> when once they ſhould begin to <hi>Act.</hi>
+            </p>
+            <p>That His Majeſty knew the <hi>Arts</hi> they make uſe of in his <hi>Kingdom</hi> to bring their <hi>deſigns about,</hi> and is alſo informed of the <hi>Methods</hi> the <hi>Court of Spain</hi> uſes in their own <hi>Affairs,</hi> by which the <hi>Spaniſh Nether<g ref="char:EOLhyphen"/>lands</hi> are in danger to be intirely <hi>ruined.</hi>
+            </p>
+            <p>That the deſign of their <hi>ruin</hi> was already almoſt <hi>effected</hi> and that all the <hi>Low-Countries</hi> would be infallibly deſtroyed, in a ſhort time, if a <hi>ſpeedy</hi> and <hi>vigorous courſe</hi> be not taken. The King of <hi>Spain</hi> not being able to put his <hi>Country</hi> into a <hi>condition</hi> of <hi>defence</hi> or <hi>reſiſtance,</hi> and the <hi>States</hi> having been ſtrangely exhauſted by the <hi>Late Wars,</hi> and ſo diſabled from making ſuch a powerful reſiſtance, as they might <hi>wiſh to themſelves.</hi>
+            </p>
+            <p>That the <hi>Spaniſh Netherlands,</hi> and this <hi>State</hi> being loſt, His Ma<g ref="char:EOLhyphen"/>jeſty would endeavour in vain to apply the neceſſary <hi>remedies</hi> againſt a <hi>victorious King,</hi> ingaging all his <hi>Kingdoms,</hi> and extreamly powerful, as well by <hi>Sea</hi> as <hi>Land.</hi>
+            </p>
+            <p>That they ſaw no means to ſecure or ſave themſelves, and could not hope for any help from His Majeſty, while he and his <hi>People</hi> are <hi>diſagreed;</hi> nor could they hope any thing from time it ſelf, ſince all delays have only ſerved to animate <hi>foreign owers</hi> ſo ſtrongly Armed, to execute their Projects, while His Majeſty at <hi>variance</hi> with his <hi>People</hi> cannot afford them the requiſite and neceſſary Remedies.</p>
+            <p>That His Majeſty had found by experience, that the <hi>Diſſolution</hi> and <hi>Prorogation</hi> of <hi>Parliaments,</hi> have only ſerved to <hi>diſquiet the minds</hi> of his <hi>People,</hi> and that at their firſt ſittings; <hi>ſubſequent Parliaments</hi> have gone in the ways of the former, and with <hi>greater Animoſity.</hi>
+            </p>
+            <p>That they cannot but lament their own unhappineſs, that a buſi<g ref="char:EOLhyphen"/>neſs ſo uncertain as is that of a <hi>future Succeſſion</hi> (wherein time may make conſiderable Alterations, and even Revolutions far different from what might be agreed to) ſhould occaſion their <hi>intire Ruin:</hi> and that the <hi>Intereſts</hi> of <hi>Europe,</hi> principally of all Proteſtant Princes, and of this <hi>State,</hi> ſhould be ſacrificed for ſo uncertain a matter.</p>
+            <p>That His <hi>Majeſty</hi> is too <hi>clear ſighted,</hi> not to perceive that in <hi>England</hi> it ſelf, the <hi>Acts of Parliament,</hi> which have been made for excluding from the <hi>Succeſſion</hi> to the <hi>Kingdom,</hi> have had no ſucceſs; thoſe of the Queens, <hi>Mary</hi> and <hi>Elizabeth,</hi> being too freſh in Mens Memories to be yet forgotten.</p>
+            <pb n="4" facs="tcp:94196:3" rendition="simple:additions"/>
+            <p>That it is much to be feared, that a <hi>Parliament</hi> Compoſed of <hi>Per<g ref="char:EOLhyphen"/>ſons Wiſe,</hi> and <hi>underſtanding</hi> in the <hi>Laws</hi> of the <hi>Nation, armed</hi> with con<g ref="char:EOLhyphen"/>ſiderable Examples, and <hi>animated</hi> with the concurrence of the <hi>great Cities,</hi> and all the <hi>Nation</hi> will be able to <hi>keep</hi> their <hi>ground,</hi> and by that means <hi>continue</hi> the <hi>diſunion,</hi> and ſo this <hi>affair</hi> (though it be <hi>uncertain</hi> that 'twill ever happen) will however be deſtructive, though His <hi>Ma<g ref="char:EOLhyphen"/>jeſty</hi> ſhould agree to the <hi>Sentiments</hi> of his <hi>Parliament</hi> at laſt.</p>
+            <p>But that <hi>all Europe</hi> and principally the Neighbouring Countries would be inevitably <hi>Ruined,</hi> if this <hi>State</hi> ſhould be ſo <hi>Unfortunate</hi> as to ſee the continuance of this difference; and that no help could be expected even then, when His Majeſty ſhall comply with his <hi>Peo<g ref="char:EOLhyphen"/>ple,</hi> and would apply the moſt effectual Remedies.</p>
+            <p>That they did not pretend in the leaſt to Offer any directions to the <hi>Will and Pleaſure</hi> of His <hi>Majeſty:</hi> But that they ſubmit them<g ref="char:EOLhyphen"/>ſelves to what His <hi>Majeſty</hi> ſhall think moſt agreeable, only they de<g ref="char:EOLhyphen"/>ſire, that if they be ſo <hi>Unfortunate</hi> as, to ſee that His <hi>Majeſty</hi> will <hi>Sacrifice his Kingdoms, His Royal Perſon,</hi> and the <hi>Union</hi> of his <hi>People</hi> for ſo <hi>Uncertain</hi> a <hi>Matter,</hi> which perhaps may never happen; and that it may not be hoped, That His <hi>Majeſty</hi> can <hi>Engage himſelf</hi> in the differences among <hi>Chriſtian Princes</hi> when ever they ſhall hap<g ref="char:EOLhyphen"/>pen: Since the condition of his <hi>Kingdom</hi> will not permit it. That then at leaſt His <hi>Majeſty</hi> would grant them this favour, to acquaint them, that they may endeavour to find out ſome means to <hi>Save</hi> their <hi>Common Wealth</hi> and the <hi>poor People</hi> committed to their care.</p>
+            <p>That they will always remember the good inclinations His <hi>Majeſty</hi> has had for them, but that they ſhall ſee with <hi>extream diſpleaſure</hi> and <hi>Tears</hi> of <hi>Blood,</hi> that they who do ſo much affect His <hi>Majeſtyes good</hi> muſt become an <hi>Innocent Sacrifice,</hi> for an <hi>Intereſt</hi> which it may be will never happen and which when it do's; will bring with it perhaps that <hi>loſs</hi> and <hi>ruin</hi> to which they <hi>ſee themſelves</hi> expoſed.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:94196:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
